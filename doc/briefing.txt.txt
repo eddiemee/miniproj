@@ -1,0 +1,14 @@
+Projeto de Site de uma Doceria
+
+Objetivos do Site:
+
+Criar uma ferramente eficiente que satisfaça tanto os donos como os clientes.
+Que seja de fácil acesso e mas ao mesmo tempo possua uma certa sofisticação, para passar a ideia que os cliente está num local diferenciado, de certa forma, a qualidade do site se reflete na qualidade dos produtos. 
+
+Público Alvo:
+
+Clientes que tenham alguma familiaridade com tecnologia, que estejam acostumados a pedir produtos online, mas não necessariamente tenham pedido produtos (doces) de forma digital. Poder acquisitivo um pouco maior, mas nada abusivo.
+
+Palavras Chaves:
+
+"bolos, doces, docinhos, bolinhos, chocolate, brigadeiros, doceria"
