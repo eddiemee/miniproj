@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+
+
+.textsobrenos{
+    display: block;
+    width: 65%;
+    float: right;
+    margin: 10px auto;
+    color: #FDFFB6;
+    background: #BDB2FF;
+}
+
+.imgsobrenos{
+    display: block;
+    width: 25%;
+    float: left;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.vidsobre_nos{
+    display: block;
+    float: right;
+    color: #FDFFB6;
+    background: #BDB2FF;
+}
