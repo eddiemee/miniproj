@@ -18,6 +18,7 @@
             alt="CSS válido!" />
     </a>
 </p>
+
 ### Menu
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
@@ -26,6 +27,7 @@
             alt="CSS válido!" />
     </a>
 </p>
+
 ### Bolos
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
@@ -34,6 +36,7 @@
             alt="CSS válido!" />
     </a>
 </p>
+
 ### Contato
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
@@ -42,6 +45,7 @@
             alt="CSS válido!" />
     </a>
 </p>
+
 ### Bolo Chocolate
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
@@ -51,6 +55,16 @@
     </a>
 </p>
         
-# miniproj
-Mini Projeto HTML5 e CSS - Senac Tatuapé
+# Site Docelojas - Eduardo Martins
+Mini Projeto HTML5 e CSS - Senac Tatuapé. Conteúdo de Doces, Bolos e alimentos. Site fictício sem fins lucrativos.
+## Autor
+Eduardo do Espírito Santo Martins
+## Construído com 
+* Html 5
+* Css 3
+* JS
+## Licença
+Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para detalhes.
+
+
 
