@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+
+
+
+.bolo_chocolate{
+width: 35%;
+float: right;
+margin-top: 40px;
+margin-right: 100px;
+color: #FDFFB6;
+background: #BDB2FF;
+border: 5px solid #fff;
+font-family: 'Hind Siliguri', sans-serif;
+text-align: justify;
+}
+
+.bolofotochc{
+    display: block;
+    width: 45%;
+    float: left;
+    margin: 20px auto;
+    padding: 10px;
+    border: 5px solid #fff;
+}
