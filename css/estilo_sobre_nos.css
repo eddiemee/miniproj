@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+
+
+
+.textsobrenos{
+    width: 35%;
+    float: right;
+    margin-top: 40px;
+    margin-right: 100px;
+    color: #FDFFB6;
+    background: #BDB2FF;
+    border: 5px solid #fff;
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: justify;
+
+}
+
+.imgsobrenos{
+    display: block;
+    width: 25%;
+    float: left;
+    margin: 20px auto;
+    padding: 10px;
+    border: 5px solid #fff;
+}
+
+.vidsobre_nos{
+    display: block;
+    float: right;
+    color: #FDFFB6;
+    background: #BDB2FF;
+    border: 5px solid #fff;
+    margin-right: 100px;
+}

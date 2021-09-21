@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+form{
+    width: 85%;
+    margin: auto;
+}
+
+input, textarea{
+    background: #fff;
+    font-size: 0.9em;
+}
+
+input:hover, textarea:hover{
+    background: #FDFFB6;
+}
+
+legend{
+    color: purple;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+
+
+#sexo{
+    width: 25%;
+}
+
+fieldset{
+    border-color: sienna;
+    margin: 20px;
+}
+
+
+.btn{
+    background: #BDB2FF;
+    padding: 10px;
+    margin: 5px;
+    font-size: 1.0em;
+    border: none;
+    color: #FDFFB6;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    left: 300px;
+}
+
+.btn:hover{
+    background: #BDB2FF;
+}

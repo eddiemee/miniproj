@@ -1,0 +1,144 @@
+@charset "UTF-8";
+
+.textobolos{
+    color: #FDFFB6;
+    background: #BDB2FF;
+    font-family: 'Hind Siliguri', sans-serif;
+    border: 5px solid #fff;
+    width: 45%;
+    margin-left: 300px;
+}
+
+.menu_bolos{
+    width: 58%;
+    margin: 0 auto;
+    padding: 50px;
+    list-style: none;
+}
+
+.menu_bolos li{
+    float: left;
+    width: 28.5%;
+    height: 200px;
+    margin: 10px;
+    border: 5px solid #fff;
+    background: rgb(95, 49, 6)
+
+}
+
+.galeria{
+    opacity: 0;
+    color: #FDFFB6;
+    background: #BDB2FF;
+    border: 5px solid #fff;
+    font-size: 0.9em;
+    padding: 5px;
+    line-height: 370px;
+}
+
+.galeria:hover{
+    opacity: 1;
+}
+
+li.fotobolos1{
+    background: url("../imagens/fotobolos1.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 700px 500px;
+}
+
+li.fotobolos2{
+    background: url("../imagens/fotobolos2.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 700px 500px;
+}
+
+li.fotobolos3{
+    background: url("../imagens/fotobolos3.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 700px 500px;
+}
+
+li.fotobolos4{
+    background: url("../imagens/fotobolos4.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 700px 500px;
+}
+
+li.fotobolos5{
+    background: url("../imagens/fotobolos5.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 700px 500px;
+}
+
+li.fotobolos6{
+    background: url("../imagens/fotobolos6.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 700px 500px;
+}
+
+li.fotobolos7{
+    background: url("../imagens/fotobolos7.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 700px 500px;
+}
+
+li.fotobolos8{
+    background: url("../imagens/fotobolos8.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 700px 500px;
+}
+
+li.fotobolos9{
+    background: url("../imagens/fotobolos9.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 700px 500px;
+}
+
+li.fotobolos1:hover{
+    background-position: 0% 0%;
+    background-size: 200px 200px;
+}
+
+li.fotobolos2:hover{
+    background-position: 0% 0%;
+    background-size: 200px 200px;
+}
+
+li.fotobolos3:hover{
+    background-position: 0% 0%;
+    background-size: 200px 200px;
+}
+
+li.fotobolos4:hover{
+    background-position: 0% 0%;
+    background-size: 200px 200px;
+}
+
+li.fotobolos5:hover{
+    background-position: 0% 0%;
+    background-size: 200px 200px;
+}
+
+li.fotobolos6:hover{
+    background-position: 0% 0%;
+    background-size: 200px 200px;
+}
+
+li.fotobolos7:hover{
+    background-position: 0% 0%;
+    background-size: 200px 200px;
+}
+
+li.fotobolos8:hover{
+    background-position: 0% 0%;
+    background-size: 200px 200px;
+}
+
+li.fotobolos9:hover{
+    background-position: 0% 0%;
+    background-size: 200px 200px;
+}
+
+.menu_bolos li:hover{
+    transform: scale(1.5);
+}
